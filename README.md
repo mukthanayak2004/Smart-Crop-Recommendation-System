@@ -48,7 +48,9 @@ No installation required.
 
 ## 📷 Screenshots
 
-<img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/16a124d1-6588-4e95-b708-d9fa63473ee7" />
+<img width="1366" height="719" alt="home" src="https://github.com/user-attachments/assets/017496f3-2041-4794-a335-b685674e6459" />
+<img width="1351" height="639" alt="recommendations" src="https://github.com/user-attachments/assets/7e96a930-544a-4055-a97e-b5b143d7e85b" />
+
 
 ---
 
